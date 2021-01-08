@@ -79,5 +79,5 @@ int main() {
     // https://www.codegrepper.com/code-examples/delphi
     // c%2B%2B+print+double+with+2+decimal+places
     std::cout << "The volume of the cylinder is: " << std::setprecision(2)
-    << std::fixed << calculated_volume <<"cm²" << std::endl;
+    << std::fixed << calculated_volume <<"cm³" << std::endl;
 }
